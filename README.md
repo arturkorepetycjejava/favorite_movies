@@ -1,6 +1,6 @@
-##Find top favorite movies among friends
-###Expected time = 0:30h (try to measure your time)
-###difficulty level = advanced
+## Find top favourite movies among friends
+### Expected time = 0:30h (try to measure your time)
+### difficulty level = advanced
 
 Implement `MoviesAnalyzer#topFavouriteMoviesAmongFriends` method that will return an array of top three movies titles, that have been moste favourited by friends of a given user.
 
